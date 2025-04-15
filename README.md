@@ -12,14 +12,6 @@ This project aims to **predict customer churn** using various machine learning m
 
 ---
 
-## 👥 Team Members
-
-- **Chittesh S** - CB.EN.U4ECE23212  
-- **CH. Saathvik** - CB.EN.U4ECE23214  
-- **M. Rahul** - CB.EN.U4ECE23227  
-
----
-
 ## 🎯 Objectives
 
 - Predict customer churn using models like Decision Trees, Random Forest, SVM, KNN, Naive Bayes, SGD, and ADAM.
