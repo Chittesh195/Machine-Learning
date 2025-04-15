@@ -66,16 +66,6 @@ This project aims to **predict customer churn** using various machine learning m
 
 ---
 
-## 📈 Performance Metrics
-
-| Model           | Accuracy | Precision | Recall | F1-Score |
-|----------------|----------|-----------|--------|----------|
-| Random Forest  | 98%      | 97.88%    | 96.71% | 97.29%   |
-| Decision Tree  | Comparable with base paper |
-| Others         | Used for benchmarking and additional insights |
-
----
-
 ## 📆 Timeline
 
 - **Week 1–2**: Literature Review and Base Paper Analysis  
